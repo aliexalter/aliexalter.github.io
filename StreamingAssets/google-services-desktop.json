@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "85765204937",
+    "project_id": "abc-matching-game",
+    "storage_bucket": "abc-matching-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85765204937:ios:7ba3c8f0b5ce3b248f1618",
+        "android_client_info": {
+          "package_name": "uk.softwarestudio.matchabc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85765204937-lpdiktrt6etrav4e6nqkbi56sj8dkfpv.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyXQ_pJPjAyhzEOEn5QcSJ_UGbXwOSM-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
